@@ -1,0 +1,16 @@
+.cm {
+	margin: 8px;
+	font-size: xxx-large;
+	font-family: monospace;
+	width: auto;
+	height: auto;
+	background: pink;
+	text-align: center;
+}
+.displayNone {
+	display: none;
+}
+.fontsizeSmall {
+	font-size: xx-large;
+}
+
