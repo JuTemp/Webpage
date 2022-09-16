@@ -13,5 +13,5 @@ function onclickToday() {
 function onclickAbout()
 {
 	alert("JuTemp 2022Sept16th Modified.");
-}
+};
 
